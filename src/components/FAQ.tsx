@@ -83,7 +83,7 @@ const FAQ = () => {
             Still have questions?
           </p>
           <a 
-            href="/faqs" 
+            href="https://sarira-faqs.netlify.app" 
             target="_blank"
             className="inline-block bg-[#E38A30] hover:bg-[#E38A30]/90 text-white px-8 py-3 rounded-full font-semibold transition-all duration-300 transform hover:scale-105"
           >
